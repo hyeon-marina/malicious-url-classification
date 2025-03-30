@@ -43,3 +43,6 @@ This project documents my participation in the Dacon AI competition “Malicious
 ## 📌 ライセンス / License
 
 This project is licensed under the MIT License.
+
+※ 本プロジェクトでは最終提出ファイルの生成までは至っておりませんが、モデルの構築・評価（ROC-AUC: 0.94095）は完了しています。
+
