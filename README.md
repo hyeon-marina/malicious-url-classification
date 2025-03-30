@@ -11,11 +11,11 @@ This project documents my participation in the Dacon AI competition “Malicious
 <pre><code>##<code> 
 malicious-url-classification/ 
 ├── notebooks/ 
-  │ └── tfidf_lightgbm_colab.ipynb # 実験コード（Colab） 
-  ├── models/ 
-  │ ├── final_model.pkl # 学習済みLightGBMモデル 
-  │ └── tfidf_vectorizer.pkl # TF-IDFベクトル化器 
-  └── README.md # プロジェクト概要ファイル </code> </code></pre>
+│ └── tfidf_lightgbm_colab.ipynb # 実験コード（Colab） 
+├── models/ 
+│ ├── final_model.pkl # 学習済みLightGBMモデル 
+│ └── tfidf_vectorizer.pkl # TF-IDFベクトル化器 
+└── README.md # プロジェクト概要ファイル </code> </code></pre>
 
 
 🚀 使用技術 / Tech Stack
