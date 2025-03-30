@@ -11,6 +11,13 @@ This project documents my participation in the Dacon AI competition “Malicious
 
 ## 📂 構成ファイル / Project Structure
 
+malicious-url-classification/
+├── notebooks/
+│   └── tfidf_lightgbm_colab.ipynb
+├── models/
+│   ├── final_model.pkl
+│   └── tfidf_vectorizer.pkl
+└── README.md
 
 ---
 
